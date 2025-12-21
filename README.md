@@ -10,10 +10,10 @@ Web Development
 Virtual Internship
 
 ## Tasks Completed
-- Task 1: Landing Page
-- Task 2: Portfolio Website
+- Task 1: Portfolio Website                           
+- Task 2:Landing Page
 - Task 3: Calculator
-- Task 4: To-Do Web App
+  
 
 ## Technologies Used
 - HTML
