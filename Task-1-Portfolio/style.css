@@ -459,3 +459,14 @@ p{
 .contact-form button:hover{
     box-shadow:0 0 20px #00f7ff;
 }
+.footer {
+    background-color: #0b1c2d;   
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+.footer p {
+    color: #aaa;
+    font-size: 14px;
+}
