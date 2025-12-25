@@ -1,22 +1,4 @@
-// var typed=new typed(".text",{
-//     strings:["frontend developer","software developer","learing"],
-//     typeSpeed:100,
-//     backSpeed:100,
-//     backDelay:1000,
-//     loo:true
-// })
 
-
-// document.querySelectorAll('.circle').forEach(circle=>{
-//     let percent = circle.getAttribute('data-percent');
-//     let degree = percent * 3.6;
-//     circle.style.background =
-//         `conic-gradient(#00f7ff ${degree}deg, #000 ${degree}deg)`;
-// });
-
-/* =========================
-   Typing Animation (Home)
-========================= */
 const typed = new Typed("h4", {
     strings: ["Web Developer Intern", "Frontend Developer", "Java Learner"],
     typeSpeed: 80,
@@ -26,9 +8,6 @@ const typed = new Typed("h4", {
 });
 
 
-/* =========================
-   Skill Circle Animation
-========================= */
 const circles = document.querySelectorAll(".circle");
 
 circles.forEach(circle => {
@@ -40,9 +19,7 @@ circles.forEach(circle => {
 });
 
 
-/* =========================
-   Smooth Scroll (Navbar)
-========================= */
+
 document.querySelectorAll(".navbar a").forEach(link => {
     link.addEventListener("click", e => {
         e.preventDefault();
@@ -58,9 +35,7 @@ document.querySelectorAll(".navbar a").forEach(link => {
 });
 
 
-/* =========================
-   Contact Button Scroll
-========================= */
+
 document.querySelector(".btn").addEventListener("click", () => {
     document.getElementById("contact").scrollIntoView({
         behavior: "smooth"
@@ -68,9 +43,7 @@ document.querySelector(".btn").addEventListener("click", () => {
 });
 
 
-/* =========================
-   Contact Form Validation
-========================= */
+
 const form = document.querySelector(".contact-form");
 
 form.addEventListener("submit", e => {
