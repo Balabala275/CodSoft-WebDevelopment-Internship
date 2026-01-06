@@ -15,7 +15,7 @@ Description:
 This is a personal portfolio website created using HTML, CSS, and JavaScript.
 It showcases my skills, projects, and contact information with a clean and responsive design.
 ### 📸 Screenshot
-![Portfolio Website](screenshot/portfolio.png)
+![Portfolio Website](Screenshort/portfolio.png)
 ### 🎥 Demo Video
 🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-portfolio-webdeveloper-activity-7409841570805608448-j4hL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
 
