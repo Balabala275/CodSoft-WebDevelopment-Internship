@@ -35,7 +35,7 @@ Description:
 This is a simple calculator application built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations such as addition, subtraction, multiplication, and division
 ### 📸 Screenshot
-![calculator application](screenshot/calculator.png)
+![calculator application](Screenshort/calculator.png)
 ### 🎥 Demo Video
 🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-javascript-webdevelopment-activity-7409849995929124864-3XW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
   
