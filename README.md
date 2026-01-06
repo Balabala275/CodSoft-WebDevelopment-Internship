@@ -25,7 +25,7 @@ Description:
 This project is a landing page for a fictional AI tool called CodeHelper AI.
 It is designed using HTML and CSS with a modern dark theme to present features and call-to-action sections.
 ### 📸 Screenshot
-![Landing page for codehelper AI Website](screenshot/Landingpage.png)
+![Landing page for codehelper AI Website](Screenshort/landing page.png)
 ### 🎥 Demo Video
 🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-webdevelopment-html-activity-7409845661258440704-Hs3_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
 
